@@ -1,0 +1,12 @@
+pluginManagement {
+    repositories {
+        maven { url = 'https://maven.legacyfabric.net' }
+        maven { url = 'https://jitpack.io' }
+        maven { url = 'https://storage.googleapis.com/devan-maven/' }
+        gradlePluginPortal()
+        flatDir {
+            dirs 'libs'
+        }
+    }
+}
+rootProject.name = "skinmixin"
