@@ -25,4 +25,4 @@ Download MinecraftLegacySkinServer-1.0.zip, extract it, compile the code in src 
 
 ## Author's Note
 
-As for why I changed the class, it's because the original BTW mapping was wrong. I spent ages messing around and still couldn't figure out where this damn error came from, so I had no choice but to do it this way. Please forgive me. If you can solve it yourself, it's best to do so rather than following my approach.
+As for why I changed the .class, it's because the original BTW mapping was wrong. I spent ages messing around and still couldn't figure out where this damn error came from, so I had no choice but to do it this way. Please forgive me. If you can solve it yourself, it's best to do so rather than following my approach.
