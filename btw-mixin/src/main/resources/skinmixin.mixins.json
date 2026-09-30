@@ -1,7 +1,0 @@
-{
-  "required": true,
-  "package": "com.example.skinmixin.mixin",
-  "compatibilityLevel": "JAVA_8",
-  "mixins": ["ThreadDownloadImageMixin"],
-  "injectors": { "defaultRequire": 1 }
-}
