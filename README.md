@@ -1,8 +1,8 @@
-Hello, this is the usage documentation. The development documentation is further down below.
+## Usage Documentation
 
 Download skinmixin-1.0-dev.jar.
 
-Open the mods folder of your BTW CE 2.*.* instance and drag it in.
+Open the mods folder of your BTW CE 2.1.4 instance and drag it in.
 
 Set up LittleSkin login in your launcher. Each launcher is different, so here we will only cover HMCL (Hello Minecraft Launcher). Click on Accounts, click "Add Auth Server" in the bottom left corner, enter https://littleskin.cn , then click "LittleSkin" in the left sidebar and enter your username and password.
 
@@ -25,4 +25,4 @@ Download MinecraftLegacySkinServer-1.0.zip, extract it, compile the code in src 
 
 ## Author's Note
 
-As for why I changed the .class, it's because the original BTW mapping was wrong. I spent ages messing around and still couldn't figure out where this damn error came from, so I had no choice but to do it this way. Please forgive me. If you can solve it yourself, it's best to do so rather than following my approach.
+As for why I changed the class, it's because the original BTW mapping was wrong. I spent ages messing around and still couldn't figure out where this damn error came from, so I had no choice but to do it this way. Please forgive me. If you can solve it yourself, it's best to do so rather than following my approach.
